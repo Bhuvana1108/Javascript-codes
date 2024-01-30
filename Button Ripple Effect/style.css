@@ -1,0 +1,31 @@
+body{
+  margin:0;
+  display:flex;
+  align-items: center;
+  height:100vh;
+  justify-content: center;
+  color:aliceblue;
+}
+
+
+
+
+
+.btn{
+  background-color: lightpink;
+  border:none;
+  padding:20px;
+  width:20vh;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  border: 1px solid lightpink;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  color:black;
+  border-radius: 8px;
+}
+
+.btn:
+
+}
+
